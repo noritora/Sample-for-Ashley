@@ -1,8 +1,8 @@
 development:
   adapter: mysql2
   encoding: utf8
-  host: us-cdbr-iron-east-02.cleardb.net
-  database: heroku_5af41f4e12107d5
+  host: localhost
+  database: sample_for_ashley
   pool: 5
-  username: b081f9dd386d5c
-  password: c6247bb5
+  username: root
+  password:
